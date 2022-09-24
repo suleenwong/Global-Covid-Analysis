@@ -1,4 +1,4 @@
-# Global Covid analysis
+# Analysis of global Covid data
 
 
 PostgreSQL data analysis project using data from https://ourworldindata.org/covid-deaths to analyze countries and continents with
